@@ -7,4 +7,4 @@ console.log("Linting code");
 console.log("Lint passed");
 
 // unusedVar = 42;
-// console.log("Running tests...");
+console.log("Running tests...");
