@@ -6,5 +6,5 @@ console.log("All tests passed!");
 console.log("Linting code");
 console.log("Lint passed");
 
-unusedVar = 42;
-console.log("Running tests...");
+// unusedVar = 42;
+// console.log("Running tests...");
